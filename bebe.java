@@ -15,7 +15,7 @@ public class bebe {
     System.out.print("why all of the sudden do I feel good and then bad ");
     System.out.print("why all of the sudden do I feel good and then bad"); //while the print doesn't start a new line and will always try to fit the print result in one line
     System.out.print(4 + 0.3);
-    fullIntro = "Hi my name is Innocente Mutabazi Innocente and my networth is 1.6k usd";
+    fullIntro = "Hi my name is " + name + " and my networth is " + networth + " Million Rwf";
     System.out.println(name);
     System.out.println(fullIntro);
   }
