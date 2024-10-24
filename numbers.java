@@ -3,6 +3,6 @@ public class numbers {
     byte num = 100;
     short num1 = 3000;
     int num2 = 4000;
-    long num3 = 8899999999999999999999999999999;
+    System.out.println(10e4);
   }
 }
